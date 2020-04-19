@@ -1,0 +1,9 @@
+Python web frameworks:
+1. Flask -> mainly for small and less complex applications 
+2. Django ->> for large scale and more complex applications
+
+reference : https://www.netguru.com/blog/flask-vs-django-comparison-which-python-framework-is-better-for-your-app
+
+
+check version of flask or django:
+python -m [django/flask] --version 

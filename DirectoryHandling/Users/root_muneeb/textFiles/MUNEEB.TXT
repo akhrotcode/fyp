@@ -1,0 +1,7 @@
+SQL> SELECT EMPNO, ENAME, SAL, DEPTNO
+  2  FROM EMP
+  3  WHERE DEPTNO = 10;
+      7782 CLARK            2450         10                                     
+      7839 KING             5000         10                                     
+      7934 MILLER           1300         10                                     
+SQL> spool off
